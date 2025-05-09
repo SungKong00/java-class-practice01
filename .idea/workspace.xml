@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="730bc150-ed46-4362-b07f-4b05f1563b05" name="변경" comment="docs: .gitignore 설정&#10;&#10;- JAVA, IntelliJ, MacOS 에서 사용되는 불필요한 파일들 추가&#10;&#10;- 누락된 gradle 추가" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/shoppingPractice">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="shoppingPractice" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SungKong00"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SungKong00/java-class-practice01.git",
+    "accountId": "37ed8566-4ba3-4147-af6f-48fac4fb683b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2wrkDU7SGrpMqVEpTBild7oKcjO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "라이브러리",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="730bc150-ed46-4362-b07f-4b05f1563b05" name="변경" comment="" />
+      <created>1746806960112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746806960112</updated>
+      <workItem from="1746806961301" duration="6132000" />
+    </task>
+    <task id="LOCAL-00001" summary="docs: .gitignore 설정&#10;&#10;JAVA, IntelliJ, MacOS 에서 사용되는 불필요한 파일들 추가">
+      <option name="closed" value="true" />
+      <created>1746807394291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746807394291</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs: .gitignore 에 gradle 추가&#10;&#10;누락된 gradle 추가">
+      <option name="closed" value="true" />
+      <created>1746807999365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746807999365</updated>
+    </task>
+    <task id="LOCAL-00003" summary="docs: .gitignore 설정&#10;&#10;- JAVA, IntelliJ, MacOS 에서 사용되는 불필요한 파일들 추가&#10;&#10;- 누락된 gradle 추가">
+      <option name="closed" value="true" />
+      <created>1746815139185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746815139186</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: .gitignore 설정&#10;&#10;JAVA, IntelliJ, MacOS 에서 사용되는 불필요한 파일들 추가" />
+    <MESSAGE value="docs: .gitignore 에 gradle 추가&#10;&#10;누락된 gradle 추가" />
+    <MESSAGE value="docs: .gitignore MacOS 설정&#10;&#10;JAVA, IntelliJ, MacOS 에서 사용되는 불필요한 파일들 추가&#10;&#10;docs: .gitignore 에 gradle 추가&#10;&#10;누락된 gradle 추가" />
+    <MESSAGE value="docs: .gitignore 설정&#10;&#10;- JAVA, IntelliJ, MacOS 에서 사용되는 불필요한 파일들 추가&#10;&#10;- 누락된 gradle 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: .gitignore 설정&#10;&#10;- JAVA, IntelliJ, MacOS 에서 사용되는 불필요한 파일들 추가&#10;&#10;- 누락된 gradle 추가" />
+  </component>
+</project>
