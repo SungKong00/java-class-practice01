@@ -1,7 +1,5 @@
 package org.univ.domain.product;
 
-import org.univ.exception.StockUnavailableException;
-
 // 전자제품(Electronics) 상품 클래스
 public class Electronics extends Product {
 

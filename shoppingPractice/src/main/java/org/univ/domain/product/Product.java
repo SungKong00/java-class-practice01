@@ -1,5 +1,7 @@
 package org.univ.domain.product;
 
+import org.univ.exception.StockUnavailableException;
+
 // 상품(Product) 추상 클래스: 의류, 전자제품 등 모든 상품의 공통 정보를 정의
 public abstract class Product {
     private String productId;      // 상품 고유 ID
@@ -67,9 +69,7 @@ public abstract class Product {
     public void updateStock(int change) {
         int updated = this.stockQuantity + change;
         if (updated < 0) {
-            throw new org.univ.exception.StockUnavailableException(
-                    "재고 부족: 현재 재고 " + this.stockQuantity + ", 출고 요청 " + (-change)
-            );
+            throw new StockUnavailableException("재고 부족: 현재 " + this.stockQuantity + "개");
         }
         this.stockQuantity = updated;
     }
