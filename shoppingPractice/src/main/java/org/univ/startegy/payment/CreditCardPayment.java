@@ -1,4 +1,4 @@
-package org.univ.startegy;
+package org.univ.startegy.payment;
 
 public class CreditCardPayment implements PaymentMethod {
     private String cardNumber;

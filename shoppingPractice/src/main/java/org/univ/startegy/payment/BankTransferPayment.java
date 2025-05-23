@@ -1,6 +1,4 @@
-package org.univ.startegy;
-import org.univ.exception.PaymentException;
-import org.univ.startegy.PaymentMethod;
+package org.univ.startegy.payment;
 
 public class BankTransferPayment implements PaymentMethod {
     private String bankName;

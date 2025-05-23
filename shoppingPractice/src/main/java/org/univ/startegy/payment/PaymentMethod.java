@@ -1,4 +1,4 @@
-package org.univ.startegy;
+package org.univ.startegy.payment;
 
 import org.univ.exception.PaymentException;
 
