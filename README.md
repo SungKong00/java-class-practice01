@@ -26,6 +26,7 @@
 ---
 
 ## 🗂️ 프로젝트 구조
+```
 org.univ/
 ├─ domain/
 │   ├─ customer/   (Customer)
@@ -37,6 +38,7 @@ org.univ/
 │   └─ delivery/   (DeliveryMethod, StandardDelivery, ExpressDelivery)
 ├─ service/        (OrderService – 퍼사드 계층)
 └─ console/        (ConsoleApp, InputReader – CLI 진입점)
+```
 
 3.	실행 후 나오는 CLI 메뉴를 따라 고객 등록 → 상품 선택 → 결제/배송 선택 → 주문을 진행한다.
 
